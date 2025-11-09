@@ -1,4 +1,4 @@
-# 🏠 Prediksi Harga Rumah: Proyek Kaggle
+# 🏠 House Price Prediction : Kaggle Challenge
 
 Ini adalah repositori untuk proyek saya dalam kompetisi [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques) di Kaggle. Notebook ini mengeksplorasi, membersihkan, dan memodelkan data perumahan untuk memprediksi harga jual akhir.
 
